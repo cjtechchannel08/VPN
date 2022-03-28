@@ -36,7 +36,9 @@ Video tutorial: https://www.facebook.com/groups/4324200677675338/permalink/48935
 2.)Paano mag Config Update sa ROCKET VPN PRO?
 
 1.)Open ROCKET VPN PRO
+
 2.)NEED LEGIT INTERNET PARA MAG POP-UP ANG (UPDATE)
+
 3.)Click (UPDATE)
 If ayaw lumabas recent ,then close app, or restart phone nalang para sure, pero dapat may legit INTERNET ka dapat or may legit CONNECTION ka ,para lumabas yung (UPDATE)
 
