@@ -1,4 +1,4 @@
-FBU VPN LINK: https://www.mediafire.com/file/k2tht86wp9ll2jm/FBU+VPN.apk/file
+ROCKET VPN PRO LINK: https://www.mediafire.com/file/px8txj06a10eurp/Rocket+VPN+Pro+Fixed.apk/file
 
 IP HUNTER V4 LINK: https://www.mediafire.com/file/vah3vx62ecze4f7/IP+Hunter+V4.apk/file
 
@@ -24,24 +24,24 @@ Note: not working po ang ip hunt at magic ip sa mindanao area😔
 
 By: CJ Cjay:<
 
-•Tutorial video, kung paano mag Connect sa GTM Noload No Blocking (Globe/TM) , at kung paano mag IP Hunt ☺️
+•Tutorial video, kung paano mag Connect sa GTM Noload No Blocking (Globe/TM) Gamit ang Rocket VPN Pro, at kung paano mag IP Hunter ☺️
 
 Watch na guys, para maka connect kayo sa No blocking ☺️
 
 
 Note: Not working po yan sa (Mindanao area)😔
-https://www.facebook.com/groups/4324200677675338/permalink/4889200994508634/?app=fbl
+Video tutorial: https://www.facebook.com/groups/4324200677675338/permalink/4893577774070956/?app=fbl
 
 
-2.)Paano mag Config Update sa FBU VPN?
-1.) Open FBU VPN
+2.)Paano mag Config Update sa ROCKET VPN PRO?
+1.) Open ROCKET VPN PRO
 2.) NEED LEGIT INTERNET PARA MAG POP-UP ANG (UPDATE)
-3.)Click (Update now)
-If ayaw lumabas recent ,then close app, or restart phone nalang para sure, pero dapat may legit Internet ka dapat may legit internet ka ,para lumabas yung (Update)
+3.)Click (UPDATE)
+If ayaw lumabas recent ,then close app, or restart phone nalang para sure, pero dapat may legit INTERNET ka dapat or may legit CONNECTION ka ,para lumabas yung (UPDATE)
 
 Enjoyy...💚
 
-Wag kalimutan mag (Add- time) lodi para ma maintain ang server natin at more server pa😍
+Wag kalimutan mag (Add- time) lodi para ma maintain ang servers natin at more servers to come at updates😍
 
 
 3.)How to fix no browse or No Internet? Or Hindi makapag Claim ng Coin or add time,
@@ -55,14 +55,13 @@ If no browse guys or walang internet or ayaw makapag add time.
 1. Airplane mode 30 seconds
 2. Restart your phone
 3. Change server
+4. Goto Settings Rocket VPN Pro, Then Uncheck or Check (Forward UDP and Forward DNS)
 Maraming server ang pwede mapag piliin, basahin nyo lang ang nakalagay sa sulat, salamat.
 
 Dapat MATCH server MATCH payload ☺️
 
 If ayaw parin guys, Same process lang ,explore lang ng explore ,makapag browse ka din at makapag internet ENJOY♥️
 
-4.)Paano gamitin ang piso wifi no hulog??
-on your wifi then connect ka sa piso wifi na kokonekan mo then open mo yung FBU VPN, then select server choose piso wifi no hulog coins , and select payload , piso wifi no hulog coins, then   connect ☺️
 
 -Follow my social media accounts
 
