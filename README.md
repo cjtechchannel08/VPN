@@ -1,6 +1,5 @@
-ROCKET VPN PRO LINK: https://www.mediafire.com/file/px8txj06a10eurp/Rocket+VPN+Pro+Fixed.apk/file
+ROCKET VPN PRO LINK: https://www.mediafire.com/file/n5ug8jnhuv561nv/RocketVPN+Pro+-+Latest+app.apk/file
 
-IP HUNTER V4 LINK: https://www.mediafire.com/file/vah3vx62ecze4f7/IP+Hunter+V4.apk/file
 
 1.)paano maka connect sa gtm noload no blocking? Or paano mag IP Hunt??
 
@@ -11,10 +10,7 @@ gamit ka ip hunter application, , open mo ang ip hunter app then, click (check i
 if ganto lumabas (✅Congrats!! You are now connected to MAGIC IP.) ibig sabihin yan nakapag ip hunt kana at nakapag magic ip kana or nakahanap kana ng tamang ip.
 
 If nakapag ip hunt kana or nakapag magic ip kana, open mo ang FBU VPN , then sa server piliin mo ang (No Blocking/IP Hunt Server) Pili ka kung san gusto mong server,and then sa payload naman dapat piliin nyo din ang payload (GTM Noload No Blocking/IP Hunt) ganyan lang po, then click start...
-Wait mo magconnect 3-5 minutes ata before magcoconnect kaya hintayin nyo lang ,tiyaga lang at sipagan nyo lang, yown lang masasabi ko salamat...
-
-sa mga walang pang application sa ip hunter, ito link👇
-ip hunter link: https://www.mediafire.com/file/vah3vx62ecze4f7/IP+Hunter+V4.apk/file
+Wait mo magconnect 3-5 minutes ata before magcoconnect kaya hintayin nyo lang ,tiyaga lang at sipagan nyo lang, yown lang masasabi ko salamat
 
 
 •malinaw napo yan pagka explain ko sana makuha nyo at na gets nyo yung sinabi ko hihi
@@ -23,14 +19,6 @@ ip hunter link: https://www.mediafire.com/file/vah3vx62ecze4f7/IP+Hunter+V4.apk/
 Note: not working po ang ip hunt at magic ip sa mindanao area😔 
 
 By: CJ Cjay:<
-
-•Tutorial video, kung paano mag Connect sa GTM Noload No Blocking (Globe/TM) Gamit ang Rocket VPN Pro, at kung paano mag IP Hunter ☺️
-
-Watch na guys, para maka connect kayo sa No blocking ☺️
-
-
-Note: Not working po yan sa (Mindanao area)😔
-Video tutorial: https://www.facebook.com/groups/4324200677675338/permalink/4893577774070956/?app=fbl
 
 
 2.)Paano mag Config Update sa ROCKET VPN PRO?
